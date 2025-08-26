@@ -91,4 +91,3 @@ The model was evaluated on the held-out FER2013 test set. Key metrics include:
 
 ---
 
-This structure provides a comprehensive and professional details of your project. You can now use these sections to populate your GitHub repository, complete with code, a detailed README, and your final report.
